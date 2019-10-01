@@ -727,6 +727,13 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Just playing with Git.
 - [![github-alt][github-img]](https://github.com/brenda-fitz)
 
+## Bret Knight
+- I am a student at Lambda School
+- Studying Full Stack Web Dev
+- I love to code!
+- [![twitter-alt][twitter-img]](https://twitter.com/mbretknight)
+  [![github-alt][github-img]](https://github.com/bret-knight87)
+
 ### Brian Burress
 
 - I'm Brian Burress, IT consultant with The Byte Stuff
